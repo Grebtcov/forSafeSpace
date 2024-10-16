@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "header": "How to add a photo",
+            "description": "",
+            "isExpanded": false
+        },
+        {
+            "header": "How to remove the 3 photo limit",
+            "description": "",
+            "isExpanded": false
+        },
+        {
+            "header": "How to remove the 3 photo limit",
+            "description": "Hello world",
+            "isExpanded": false
+        },
+        {
+            "header": "Why is it safe",
+            "description": "If you are using an iOS device (iPhone or iPad), you need to pay for your subscription in the app:\n1. Open the application and select the \"Subscription\" section or \"Subscribe\" on the menu.\n2. Choose a subscription type and make sure it fits your needs.\n3. Confirm payment by following the instructions on the screen.",
+            "isExpanded": false
+        }
+    ]
+}
