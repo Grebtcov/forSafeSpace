@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "header": "Mo lasihit gova",
+            "description": "",
+            "image": {
+                "url": "https://miro.medium.com/v2/resize:fit:1000/format:webp/1*AmI9wRbXrfIWGESx6eEiTw.gif",
+                "size": {
+                    "width" : 0.0, 
+                    "height" : 50.0
+                }
+            },
+            "isExpanded": false
+        }
+    ]
+}

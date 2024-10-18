@@ -8,6 +8,13 @@
         {
             "header": "How to remove the 3 photo limit",
             "description": "",
+            "image": {
+                "url": "https://moya-planeta.ru/upload/images/xl/2d/4e/2d4ed5a18ab4ba2b8d27f7d5546555d92fc0b819.jpg",
+                "size": {
+                    "width" : 0.0, 
+                    "height" : 50.0
+                }
+            },
             "isExpanded": false
         },
         {
@@ -18,6 +25,13 @@
         {
             "header": "Why is it safe",
             "description": "If you are using an iOS device (iPhone or iPad), you need to pay for your subscription in the app: \n \n 1. Open the application and select the \"Subscription\" section or \"Subscribe\" on the menu.\n \n 2. Choose a subscription type and make sure it fits your needs. \n \n 3. Confirm payment by following the instructions on the screen.",
+            "image": {
+                "url": "https://miro.medium.com/v2/resize:fit:1000/format:webp/1*AmI9wRbXrfIWGESx6eEiTw.gif",
+                "size": {
+                    "width" : 0.0, 
+                    "height" : 50.0
+                }
+            },
             "isExpanded": true
         }
     ]
