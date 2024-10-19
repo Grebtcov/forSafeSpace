@@ -11,7 +11,6 @@
             "image": {
                 "url": "https://moya-planeta.ru/upload/images/xl/2d/4e/2d4ed5a18ab4ba2b8d27f7d5546555d92fc0b819.jpg",
                 "size": {
-                    "width" : 0.0, 
                     "height" : 50.0
                 }
             },
@@ -28,7 +27,6 @@
             "image": {
                 "url": "https://miro.medium.com/v2/resize:fit:1000/format:webp/1*AmI9wRbXrfIWGESx6eEiTw.gif",
                 "size": {
-                    "width" : 0.0, 
                     "height" : 50.0
                 }
             },
