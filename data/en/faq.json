@@ -25,10 +25,7 @@
             "header": "Why is it safe",
             "description": "If you are using an iOS device (iPhone or iPad), you need to pay for your subscription in the app: \n \n 1. Open the application and select the \"Subscription\" section or \"Subscribe\" on the menu.\n \n 2. Choose a subscription type and make sure it fits your needs. \n \n 3. Confirm payment by following the instructions on the screen.",
             "image": {
-                "url": "https://miro.medium.com/v2/resize:fit:1000/format:webp/1*AmI9wRbXrfIWGESx6eEiTw.gif",
-                "size": {
-                    "height" : 50.0
-                }
+                "url": "https://miro.medium.com/v2/resize:fit:1000/format:webp/1*AmI9wRbXrfIWGESx6eEiTw.gif"
             },
             "isExpanded": true
         }
